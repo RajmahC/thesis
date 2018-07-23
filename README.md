@@ -1,2 +1,3 @@
-# thesis
-thesis repository
+# thesis 
+Hello humans
+
